@@ -1,8 +1,3 @@
-/**
- * @copyright Copyright (c) by Versatile Ag.
- *            All rights reserved.
- *  Author: skumara@versatile-ag.com
-*/
 #ifndef ASYMETRIC_ENCRYPTION_H
 #define ASYMETRIC_ENCRYPTION_H
 
