@@ -1,8 +1,3 @@
-/**
- * @copyright Copyright (c) by Versatile Ag.
- *            All rights reserved.
- *  Author: skumara@versatile-ag.com
-*/
 #include "asymetric_encryption.h"
 #include <QDebug>
 
